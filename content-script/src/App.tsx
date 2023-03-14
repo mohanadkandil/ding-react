@@ -28,7 +28,7 @@ function App() {
         <div className="fixed bottom-16 right-4 w-48 bg-[#302A38] shadow-md rounded-lg py-2 z-50">
           <div className="flex justify-between items-center mb-2">
             <p className="px-4 py-2 text-gray-800 text-sm font-semibold">
-              Title
+              test
             </p>
             <button
               className="text-gray-400 hover:text-gray-800 focus:outline-none"
